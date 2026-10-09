@@ -1,13 +1,13 @@
 export const PRICE = 2000
 export const DURATION_DAYS = 5
-export const PAYMENT_URL = 'https://paystack.shop/pay/2ii5dsb98z'
+export const PAYMENT_URL = 'https://paystack.shop/pay/hy2mcyosog'
 export const PLANS = [
   { price: 500, days: 2, impressions: '100 - 1K', paymentUrl: 'https://paystack.shop/pay/hy2mcyosog' },
-  { price: 1000, days: 3, impressions: '500 - 2.5K', paymentUrl: 'https://paystack.shop/pay/vq66fjhvc6' },
-  { price: 2000, days: 5, impressions: '1K - 3K', paymentUrl: 'https://paystack.shop/pay/2ii5dsb98z' },
-  { price: 3000, days: 7, impressions: '1.5K - 4.5K', paymentUrl: 'https://paystack.shop/pay/sg8ozboj4e' },
-  { price: 4000, days: 10, impressions: '2.5K - 5K', paymentUrl: 'https://paystack.shop/pay/ltoe1tox9e' },
-  { price: 5000, days: 15, impressions: '3K - 10K', paymentUrl: 'https://paystack.shop/pay/ldra0da8b1' },
+  { price: 1000, days: 3, impressions: '500 - 2.5K', paymentUrl: 'https://paystack.shop/pay/hy2mcyosog' },
+  { price: 2000, days: 5, impressions: '1K - 3K', paymentUrl: 'https://paystack.shop/pay/hy2mcyosog' },
+  { price: 3000, days: 7, impressions: '1.5K - 4.5K', paymentUrl: 'https://paystack.shop/pay/hy2mcyosog' },
+  { price: 4000, days: 10, impressions: '2.5K - 5K', paymentUrl: 'https://paystack.shop/pay/hy2mcyosog' },
+  { price: 5000, days: 15, impressions: '3K - 10K', paymentUrl: 'https://paystack.shop/pay/hy2mcyosog' },
 ]
 export const categories = {
   'Digital Products':['Affiliate marketing','Templates & Tools','Software','Guides & Resources'],
